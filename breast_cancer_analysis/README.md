@@ -244,7 +244,7 @@ display(X_tr.head())
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/your_username/breast-cancer-diagnosis.git
+    git clone https://github.com/akamal341/breast-cancer-diagnosis.git
     cd breast-cancer-diagnosis
     ```
 
