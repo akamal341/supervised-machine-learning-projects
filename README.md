@@ -17,7 +17,7 @@ This repository contains a collection of my supervised machine learning projects
 
 This project focuses on diagnosing breast cancer using the Breast Cancer Wisconsin (Diagnostic) dataset. The analysis involves data preprocessing, feature engineering, and training classification models to achieve high accuracy and precision.
 
-- **Project Notebook:** [Breast Cancer Analysis]([breast_cancer_analysis/breast_cancer_analysis.ipynb](https://github.com/akamal341/supervised-machine-learning-projects/tree/main/breast_cancer_analysis))
+- **Project Notebook:** [Breast Cancer Analysis](https://github.com/akamal341/supervised-machine-learning-projects/breast_cancer_analysis)
 - **Project Overview:**
   - Data Cleaning and Transformation
   - Feature Selection and Engineering
