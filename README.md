@@ -43,7 +43,7 @@ This project aims to predict the activities of test subjects based on physiologi
 
 This project explores the development and evaluation of regression and classification models using several supervised learning techniques. The primary focus is on understanding how model complexity influences generalization performance.
 
-- **Project Notebook:** [Regression and Classification Analysis](regression_classification_analysis/regression_classification_analysis.ipynb)
+- **Project Notebook:** [Regression and Classification Analysis](regression_classification_analysis/regression_classification_analysis_notebook.ipynb)
 - **Project Overview:**
   - Data Import and Preparation
   - Model Training and Evaluation
@@ -56,7 +56,7 @@ This project explores the development and evaluation of regression and classific
 
 This project addresses the problem of spam email detection by developing several classification models and calculating useful metrics to gauge their performance. The primary goal is to understand the precision/recall tradeoff in the context of spam detection.
 
-- **Project Notebook:** [Spam Email Classifier](spam_email_classifier/spam_email_classifier.ipynb)
+- **Project Notebook:** [Spam Email Classifier](spam_email_classifier/spam_email_classifier_notebook.ipynb)
 - **Project Overview:**
   - Data Import and Preparation
   - Baseline Dummy Classifiers
